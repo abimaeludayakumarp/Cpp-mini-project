@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Function declarations
+// Function declaration
 void readMarks(int marks[], int n);
 int findTotal(int marks[], int n);
 double findAverage(int marks[], int n);
